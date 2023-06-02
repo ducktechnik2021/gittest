@@ -5,3 +5,4 @@
 - 增加功能1
 - Bugfix 1
 - Bugfix 1-1
+- Hotfix 1
