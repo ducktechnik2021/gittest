@@ -7,3 +7,4 @@
 - Bugfix 1-1
 - Hotfix 1
 - Hotfix 2
+- Hotfix 3
